@@ -1,0 +1,4 @@
+questionary
+notify-py
+tabulate
+pytest
