@@ -20,6 +20,7 @@ Every screen shows a "back to menu (enter)" hint, and pressing Enter on an empty
 
 ### Requirements
 
+- Python 3.14 or later
 - questionary
 - notify-py
 - tabulate
